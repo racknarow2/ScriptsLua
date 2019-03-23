@@ -1,3 +1,5 @@
+--ESTE SCRIPT AñADE ITEMS CADA NIVEL QUE SUBES.
+
 --[==[RACK]==]
 
 	local a = 13582 -- 1 correa zerguezo "pet"
